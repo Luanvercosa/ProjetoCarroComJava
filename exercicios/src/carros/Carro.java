@@ -25,6 +25,7 @@ public class Carro {
 	
 	
 	void ligar() {
+		system.out.println("HIC HIC HIC \n VRUMM!!")
 		motor.motorLigado = true;
 	}
 	
